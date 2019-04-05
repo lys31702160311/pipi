@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5da9fde73ca69b2caf295a56698a2d465fb74cc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_08a2acf29e8b5dc6a3129ee06d63877a64c3da32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_9fd4a69b68e752bcc0811f8bc50b6f7c76a1acc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_e9ac83e73bc39b2b01a71f1b13ed3ee473749e67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_6df38ef10872cf6e34b3de7d932fad20385e2b32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="9e1138583a5ded691f84c8457a1de6e6446dbf23">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a7babd8217a5fcea7f0ea6bb1344d23ed2ae69e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a87ed3f70ba5ede48778d702ce7db566fbae9dec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_007adae0f3f730532c62d45c7b9a5b68cf031999.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="feab2bb85e09cc6b2378066279a15d43ba4a44cc">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\instant-run_b636a67e49374fc9146692e416ce5bc6cfa68ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_2dc412a69b8e8d4cecf8ab7981d1e5834613dd96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_aabbfa6eaf665339e14564bbf8b451349338c45b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_631261b84382640400273ed9647b9ac35048404e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_ce2c827f8aeeb797dafe5b9f347a4930d799f21c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\libs\xUtils-2.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="d7b27a19b6f7ed3d26d9157147545c94ea8ee535">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\xUtils-2.5.5_2d5f376aaf756f7d3d1651c4f87bba3bf64920c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_1d559e7ed20d144e0afcd6b12511adab899fb1e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_769f3d100f1e2602b9d2a9887103e5ff7784f467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f3b3df94e7bf7d4413a8178916e8b43ee8e4278b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Mobilesafe3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Mobilesafe3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_af3547e20f88345aac2bd8977c5c4b8b19210917.jar" />
+    </item>
+
+</items>
